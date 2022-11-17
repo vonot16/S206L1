@@ -132,3 +132,8 @@ dist
 
 #cypress
 cypress.config.js
+
+#IntelliJIdea
+
+.idea
+target
